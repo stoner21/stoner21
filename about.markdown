@@ -8,7 +8,3 @@ stoner21，与诸位赚个眼熟
 
 93年人，java coder
 
-
-
-
-[jekyll-organization]: https://github.com/jekyll
